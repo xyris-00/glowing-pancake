@@ -84,7 +84,8 @@ export const FOOTER_COPY = `© ${new Date().getFullYear()} ${NAME}`;
 
 export const SOCIAL_LINKS = [
   { name: 'GitHub', href: 'https://github.com/xyris-00', aria: 'GitHub' },
-  { name: 'Discord', href: 'https://discord.com/', aria: 'Discord' },
+  { name: 'LinkedIn', href: 'https://www.linkedin.com/in/chelvin-miranda/', aria: 'LinkedIn' },
 ];
 
 export const MESSAGE_LINK = `mailto:${CONTACT.email}`;
+
